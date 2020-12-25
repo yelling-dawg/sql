@@ -1,1 +1,0 @@
-SELECT * FROM storehouses_products ORDER BY (CASE value WHEN 0 THEN 2 ELSE 1 END);
